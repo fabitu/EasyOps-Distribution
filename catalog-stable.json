@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "generatedAtUtc": "2026-08-25T12:58:56.5670216Z",
+  "generatedAtUtc": "2026-08-27T18:11:32.9942846Z",
   "products": [
     {
       "id": "easylauncher",
@@ -12,10 +12,10 @@
         {
           "version": "1.0.0",
           "status": "active",
-          "publishedAtUtc": "2026-08-25T12:54:50.154201Z",
+          "publishedAtUtc": "2026-08-27T18:08:17.0000000Z",
           "downloadUrl": "https://github.com/fabitu/EasyOps-Distribution/releases/download/easylauncher-v1.0.0/EasyLauncher-1.0.0.zip",
-          "sha256": "5db062d117a91d5a65b6b7d93ef9bc23c9ec68b5be3fbf3b0a9b7e95a08b1d37",
-          "sourceCommit": "1300318e028478fcf6a1ed6751255ea380663a5b",
+          "sha256": "21d21d14c92434b1a92ed7642483a5f9b8ff0a0f88321335bb016b7f39a6304a",
+          "sourceCommit": "2930c1cfc18993d63f3a786ad6072d4691db96ad",
           "pluginApiVersion": "1.0",
           "minimumHostVersion": "1.0.0",
           "reason": null,
@@ -33,10 +33,10 @@
         {
           "version": "1.0.0",
           "status": "active",
-          "publishedAtUtc": "2026-08-25T12:58:56.5544310Z",
+          "publishedAtUtc": "2026-08-27T18:04:50.0000000Z",
           "downloadUrl": "https://github.com/fabitu/EasyOps-Distribution/releases/download/easyops-v1.0.0/EasyOps-1.0.0-win-x64.zip",
-          "sha256": "903650172537864ca12ef757cf138da87a745a5325940080d25ee4234b9932af",
-          "sourceCommit": "1300318e028478fcf6a1ed6751255ea380663a5b",
+          "sha256": "c8654b5c879acdab7e19d7dd37a65b7213317ac49a6a6bac568290b524da84a1",
+          "sourceCommit": "2930c1cfc18993d63f3a786ad6072d4691db96ad",
           "pluginApiVersion": null,
           "minimumHostVersion": null,
           "reason": null,
